@@ -13,7 +13,7 @@ Planner:
 Pipeline:
 - Plan
     - RAG for subgoal extraction
-    - Input: goal
+    - Input: goals
     - Output: list of atomic subgoals
 - Decompose
     - multimodal decomposer 
