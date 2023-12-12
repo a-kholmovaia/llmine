@@ -1,9 +1,17 @@
 # llmine
 LLM-based agent for Minecraft
 
+Planner:
+- [x] knowledge base files stored
+- [x] meta data extracted
+- [x] indices built
+- [x] rag implemented
+- [ ] prompt defined
+- [ ] retrieval chain for subgoal extraction works
+- [ ] knwledge graph extraction
+
 Pipeline:
 - Plan
-    - Build multimodal knowledge base
     - RAG for subgoal extraction
     - Input: goal
     - Output: list of atomic subgoals
