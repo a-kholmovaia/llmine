@@ -1,5 +1,6 @@
-# llmine
-LLM-based agent for Minecraft
+# llmine AI-Lab2023
+
+Explaining LLm-based Agents in Minecraft (in progress). Comparing traditional RL approaches and LLM-based ones.
 
 Planner:
 - [x] knowledge base files stored
